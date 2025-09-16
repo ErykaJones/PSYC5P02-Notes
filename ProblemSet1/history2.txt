@@ -1,0 +1,298 @@
+    1  ls
+    2  pwd
+    3  cd ../
+    4  pwd
+    5  ls
+    6  man ls
+    7  cd ../
+    8  ls
+    9  cd ../
+   10  ls
+   11  ls -a
+   12  ls -G
+   13  ls -t
+   14  ls -lrt
+   15  cd ../
+   16  ls
+   17  ls -lrt
+   18  cd ~/
+   19  pwd
+   20  cd /
+   21  pwd
+   22  cd home
+   23  pwd
+   24  cd /home/psych
+   25  pwd
+   26  cd ~/
+   27  mkdir ClassFiles
+   28  ls -l
+   29  touch tmp.txt
+   30  ls -1
+   31  ls -l
+   32  vi tmp.txt
+   33  cp tmp.txt tmp2.txt
+   34  cp tmp.txt tmp3.txt
+   35  cp tmp.txt tmpNew.txt
+   36  ls -l
+   37  mkdir replicas
+   38  ls -l
+   39  man mv
+   40  mv tmp2.txt replicas
+   41  ls -l
+   42  mv *.txt
+   43  mv *.txt replicas
+   44  cd replicas
+   45  ls -1
+   46  cd downloads
+   47  cd home
+   48  cd home/
+   49  cd /
+   50  cd home
+   51  ls
+   52  cd psych
+   53  ls
+   54  cd ../
+   55  ls
+   56  downloads
+   57  cd downloads
+   58  cd ~/Downloads
+   59  cd /home/psych/downloads
+   60  /mnt/c/Users/psych/Downloads?
+   61  cd /mnt/c/Users/psych/downloads
+   62  ls -l
+   63  mv *.pdb ClassFiles
+   64  mv *.pdb home/ClassFiles
+   65  mv *.pdb ~/ClassFiles
+   66  mv haiku.txt ~/ClassFiles
+   67  cd ~/ClassFiles
+   68  ls -l
+   69  cd /mnt/c/Users/psych/downloads
+   70  mv LittleWomen.txt ~/ClassFiles
+   71  cd ~/Classfiles
+   72  cd ~/ClassFiles
+   73  ls -l
+   74  cd ~/
+   75  mv Replicas ClassFiles
+   76  ls -1
+   77  mv replicas ClassFiles
+   78  cd ~/ClassFiles
+   79  ls -1
+   80  ls
+   81  cd /
+   82  ls
+   83  SUDO APT UPDATE
+   84  APT UPDATE
+   85  /
+   86  cd ~/ClassFiles
+   87  pwd
+   88  ls
+   89  ~/ClassFiles/replicas
+   90  cd ~/ClassFiles/replicas
+   91  ls
+   92  rm tmp?.txt
+   93  ls
+   94  ~/ClassFiles
+   95  cd ~/ClassFiles
+   96  ls *.pdb
+   97  wc cubane.pdb
+   98  man wc
+   99  wc *.pdb
+  100  ls
+  101  wc *.pdb > lengths.txt
+  102  ls
+  103  cat lengths.txt
+  104  wc LittleWomen.txt
+  105  sort -n lengths.txt
+  106  sort -n lengths.txt > sorted-lengths.txt
+  107  wc LittleWomen.txt
+  108  cat sorted-lengths.txt
+  109  sort -n lengths.txt | head -n 1
+  110  wc -1 *.pdb | sort -n | head -n 1
+  111  wc -w *.pdb | sort -n | head -n 1
+  112  man wc
+  113  cat haiku.txt
+  114  grep the haiku.txt
+  115  man grep
+  116  grep the-is haiku.txt
+  117  man grep
+  118  egrp 'the|is' haiku.txt
+  119  egrep 'the|is' haiku.txt
+  120  man grep
+  121  cd ~
+  122  git config --global Eryka
+  123  git config --global user.name "Eryka"
+  124  git config --global user.name "ErykaJones"
+  125  git config --global user.email "joneseryka0@gmail.com"
+  126  git config --global --edit
+  127  cd ~
+  128  ls -a
+  129  notepad .git.config
+  130  vi .gitconfig
+  131  git config --global init.defaultBranch main
+  132  vi .gitconfig
+  133  cd /ClassFiles
+  134  cd ~/ClassFiles
+  135  ls
+  136  mkdir recipes
+  137  ls
+  138  cd /recipes
+  139  cd Class/Files
+  140  cd ClassFiles
+  141  cd ~/ClassFiles/recipes
+  142  git init
+  143  ls -a
+  144  ls -all
+  145  cd .git
+  146  ls
+  147  cd /recipes
+  148  cd ~/ClassFiles/recipes
+  149  git status
+  150  touch guacamole.md
+  151  ls
+  152  vi guacamole.md
+  153  git status
+  154  git add guacamole.md
+  155  git status
+  156  git commit -m "Create initial stucture for a Guacamole recipe"
+  157  git status
+  158  vi guacamole.md 
+  159  git status
+  160  git diff
+  161  vi guacamole.md 
+  162  git add guacamole.md 
+  163  git status
+  164  git diff
+  165  git diff --staged
+  166  git commit -m "added ingrdients"
+  167  vi guacamole.md 
+  168  git diff
+  169  git add guacamole.md 
+  170  git commit -m "more avocados"
+  171  git log 
+  172  git log --colour-words
+  173  git log --color-words
+  174  git log --oneline
+  175  git log --graph
+  176  mkdir healthyfood
+  177  ls
+  178  cd healthyfood
+  179  git diff 
+  180  touch spaghetti
+  181  ls
+  182  touch spaghett.md
+  183  ls 
+  184  cd ../
+  185  git diff
+  186  cd healthyfood
+  187  ls 
+  188  vi spaghett.md 
+  189  git  diff
+  190  cd ../
+  191  git diff
+  192  git add healthyfood/spaghetti.md
+  193  git add healthyfood/spaghett.md
+  194  git diff
+  195  git status
+  196  vi guacamole.md 
+  197  git diff
+  198  git diff guacamole.md
+  199  git diff guacamole.md git diffHEAD guacamole.md
+  200  git diff HEAD guacamole.md
+  201  git l og
+  202  git log
+  203  git diff --oneline
+  204  git log --oneline
+  205  git diff f9f0912 guacamole.md
+  206  git add guacamole.md 
+  207  git commit -m "more instructions"
+  208  git log --online
+  209  git log --oneline
+  210  git restore guacamole.md
+  211  git log --oneline
+  212  vi guacamole.md 
+  213  git diff
+  214  vi guacamole.md 
+  215  git restore guacamole.md 
+  216  git diff
+  217  git log 
+  218  vi guacamole.md 
+  219  git log --oneline
+  220  git restore -s 8334c2c guacamole.md 
+  221  git long --oneline
+  222  git log --oneline
+  223  git restore -s 8334c2c guacamole.md 
+  224  git  log
+  225  git restore -s 8334c2c guacamole.md 
+  226  git log
+  227  touch tmp.txt
+  228  git status
+  229  touch .gitignore
+  230  git status
+  231  vi .gitignore
+  232  ls
+  233  git status
+  234  cd ~
+  235  ls -all
+  236  ssh-keygen -t ed25519 -C "joneseryka0@gmail.com"
+  237  ls -all
+  238  vi githubkey 
+  239  vi githubkey.pub
+  240  git remote add origin git@github.com:ErykaJones/recipes.git
+  241  cd ClassFiles/recipes
+  242  git remote add origin git@github.com:ErykaJones/recipes.git
+  243  git push origin main
+  244  vi githubkey.pub
+  245  cd ~~
+  246  cd ~
+  247  githubkey.pub
+  248  vi githubkey.pub
+  249  cd ClassFiles/recipes
+  250  git remote add origin git@github.com:ErykaJones/recipes.git
+  251  git push origin main
+  252  git remote add origin git@github.com:ErykaJones/recipes2.git
+  253  git push origin main 
+  254  git push origin main
+  255  git -M main
+  256  ssh -vT git@github.com
+  257  ssh -T GITHUB-USERNAME@github.com
+  258  ssh -T ErykaJones@github.com
+  259  git remote add
+  260  git remote add https://github.com/ErykaJones/recipes
+  261  git remote add git@github.com:ErykaJones/recipes.git
+  262  git remote add ErykaJones 
+  263  git remote -f
+  264  git remote set-url --add git@github.com:ErykaJones/recipes.git
+  265  git push origin main https://github.com/ErykaJones/recipes.git
+  266  clear
+  267  git remote add origin https://github.com/ErykaJones/recipes.git
+  268  git push origin main
+  269  git config --list
+  270  git status
+  271  git ls-remote
+  272  ssh -vT git@github.com
+  273  ssh-add
+  274  ssh -T git@github.com
+  275  git remote add origin https://github.com/ErykaJones/recipes.git
+  276  git remote -v
+  277  ~
+  278  cd ~
+  279  ls -all
+  280  ssh-keygen -t ed25519 -C "joneseryka0@gmail.com"
+  281  vi .ssh
+  282  vi .ssh/known_hosts
+  283  vi .ssh/id_ed25519.pub
+  284  git remote add origin https://github.com/ErykaJones/recipes.git
+  285  cd ~/ClassFiles/recipes
+  286  git push origin main
+  287  ls
+  288  cd ProblemSet1
+  289  vi ProbSetAnswers.txt
+  290  screen
+  291  cd ~/ProblemSets
+  292  ;s
+  293  ls
+  294  cd ~/ProblemSet2
+  295  cd ~/ProblemSet1
+  296  screen -r
+  297  ls
+  298  history | tee history2.txt
