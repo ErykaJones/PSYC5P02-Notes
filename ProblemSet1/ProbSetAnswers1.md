@@ -32,8 +32,8 @@ drwxr-xr-x 2 psych psych 4096 Sep 15 10:33 Data
 
 5.The files are not the same. Previous histories appear to be the same until I started working on this assignment and the commands that had been completed just before the screen opened were not present in history.txt, the file containing the screen history. In history2.txt, I do see the commands that were executed before opening the screen.
 
-6. ![This is a screenshot of my completed tutorial](Screenshot (1).png)
+6. ![This is a screenshot of my completed tutorial](~/ProblemSet1/Screenshot (1).png)
 
-7. ![This is a screenshot of my terminal window listing the files in my repo](Screenshot (2).png)
+7. ![This is a screenshot of my terminal window listing the files in my repo](~/ProblemSet1/Screenshot (2).png)
 
 8.   
