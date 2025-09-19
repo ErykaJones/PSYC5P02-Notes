@@ -1,0 +1,134 @@
+ git add ProblemSet1
+  342  git status
+  343  git commit -m "adding problem set 1 answers"
+  344  git push origin main
+  345  cd ~/ProblemSet1
+  346  ls
+  347  rm ProbSetAnswers.txt
+  348  git add
+  349  git add ProblemSet1
+  350  ~
+  351  cd ~
+  352  git add ProblemSet1
+  353  git commit ProblemSet1 -m "removed .txt file"
+  354  git push origin main
+  355  cd ~/ProblemSet1
+  356  vi ProbSetAnswers1.md
+  357  cd ~
+  358  git add ProblemSet1
+  359  git commit ProblemSet1 -m "fixed error with headings"
+  360  git push origin main
+  361  man head
+  362  cd ~/ProblemSet1
+  363  vi ProbSetAnswers1.md
+  364  cd ~
+  365  git add ProbSetAnswers1.md
+  366  cd ~/ProblemSet1
+  367  git add ProbSetAnswers1.md
+  368  git commit -m "fix pathway for screenshots)
+  369  git status
+  370  cd ~/ProblemSet1
+  371  git status
+  372  git commit -m "fix screenshot path"
+  373  git push origin main
+  374  git pull origin main
+  375  git remote -v
+  376  git config pull.rebase
+  377  git push origin main
+  378  git push --help
+  379  git push origin main
+  380  git status
+  381  git push origin main
+  382  git pull origin main
+  383  git config pull.rebase false
+  384  git push origin main
+  385  git config pull.rebase true
+  386  git push origin main
+  387  git push --help
+  388  git push origin https://github.com/ErykaJones/PSYC5P02-Notes/tree/main
+  389  git push origin https://github.com/ErykaJones/PSYC5P02-Notes.git
+  390  git config pull.ff only
+  391  git push origin main
+  392  git status
+  393  git add ProblemSet1
+  394  git commit -m ProblemSet1
+  395  git push origin main
+  396  git pull origin main
+  397  git merge --no-ff
+  398  git rebase
+  399  git remote add origin https://github.com/ErykaJones/PSYC5P02-Notes.git
+  400  git pull origin main
+  401  git merge --no-ff
+  402  git rebase
+  403  git fetch origin
+  404  git push origin main
+  405  git merge --no-ff
+  406  git merge --no-ff main
+  407  git push origin main
+  408  git pull origin main
+  409  git remote add https://github.com/ErykaJones/PSYC5P02-Notes.git
+  410  git remote add origin https://github.com/ErykaJones/PSYC5P02-Notes.git
+  411  rm -rf PSYC5P02-Notes.git
+  412  git remote add origin https://github.com/ErykaJones/PSYC5P02-Notes.git
+  413  ls
+  414  git add ProblemSet1
+  415  git commit -m "adding to github repository"
+  416  git push origin main
+  417  cd ~/ProblemSet1
+  418  vi ProbSetAnswers1.md
+  419  cd ~/Pictures
+  420  histryo
+  421  history
+  422  cd /mnt/c/Users/psych/Pictures
+  423  list
+  424  ls
+  425  cd  /mnt/c/Users/psych/Pictures/Screenshots
+  426  ls
+  427  git add Screenshot (1).png
+  428  git add Screenshot *.png
+  429  mv Screenshot *.png ~/ProblemSet1
+  430  mv  Screenshot***.png ~/ProblemSet1
+  431  mv Screenshot.png ~/ProblemSet1
+  432  mv 'Screenshot *.png' ~/ProblemSet1
+  433  ls
+  434  cd ~/ProblemSet1
+  435  ls
+  436  rm 'Screenshot 2025-09-16 103126.png'
+  437  l
+  438  ls
+  439  git add ProblemSet1
+  440  cd ~
+  441  git add ProblemSet1
+  442  git commit -m "add screenshots"\
+  443  git push origin main
+  444  cd ~/ProblemSet1
+  445  vi ProbSetAnswers1.md
+  446  cd ~
+  447  git add ProblemSet1
+  448  git commit ProblemSet1 -m "add proper screenshot pathways"
+  449  git push origin main
+  450  cd ~/ProblemSet1
+  451  vi ProbSetAnswers1.txt
+  452  vi ProbSetAnswers1.md
+  453  cd ~
+  454  git add ProblemSet1
+  455  git commit ProblemSet1
+  456  git commit ProblemSet1 -m "add screenshot url"
+  457  git push origin main
+  458  cd ~/ProblemSet1
+  459  vi ProbSetAnswers.md
+  460  ls
+  461  ProbSetAnswers1.md
+  462  vi ProbSetAnswers1.md
+  463  cd ~
+  464  git add ProblemSet1
+  465  git commit -m "removed square parenthesis"
+  466  git push origin main
+  467  cd ~/ProblemSet1
+  468  vi ProbSetAnswers1.md
+  469  cd ~
+  470  git add ProblemSet1
+  471  git commit ProblemSet1
+  472  git status
+  473  git commit ProblemSet1 -m "add back parenthesis"
+  474  git push origin main
