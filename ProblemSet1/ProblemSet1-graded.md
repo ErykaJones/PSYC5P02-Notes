@@ -5,14 +5,18 @@
 
 
 1. a) ls -r
+   
 >> **You need to add the ``-t`` to include sorted by time**
+
 b.ls -all
->> **Be sure to list the full command: ``ls -lrt``** 
+
+>> **Be sure to list the full command: ``ls -lrt``**
+
 c. -r, --reverse  
               reverse order while sorting
 >> **Try to add more explanation.**
 
-:memo: **1.5/3**
+:memo: **1/3**
 
 2. cd /~, cd /home, cd ../
   >> **``cd /~`` doesn't work. It's ``cd ~/``**
@@ -54,3 +58,9 @@ drwxr-xr-x 2 psych psych 4096 Sep 15 10:33 Data
 7. ![This is a screenshot of my terminal window listing the files in my repo](https://github.com/ErykaJones/PSYC5P02-Notes/blob/e314ed6f925b77af3e37a3cd7afb4e9654988bec/ProblemSet1/Screenshot%20(2).png)
 
 8. The command I used to create the file were history | tail -n 341. I used this because I was trying to isolate the commands, which were further up in the history. I used touch to create a blank text file to copy the history into, that file is called githistory.txt.   
+
+>>**Why so many lines of next? You could just do the last few lines. Something like `history | tail -n 4 > git_commit_commands.txt`. Also how did you copy everything into the file?
+
+:memo: **1/3**
+
+:memo: **Total: 21/26
