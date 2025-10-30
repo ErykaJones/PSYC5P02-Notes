@@ -1,0 +1,71 @@
+11.4504 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.4535 	INFO 	Loaded monitor calibration from ['2025_10_02 14:32']
+11.9463 	INFO 	Using renderer 'AMD Radeon(TM) Graphics' for graphics
+11.9464 	INFO 	OpenGL version supported by driver is 4..
+12.0037 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A5C812AFE0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A5C812AF80>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A5C81BB9D0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.0038 	EXP 	window1: backgroundImage = ''
+12.0038 	EXP 	window1: backgroundFit = 'none'
+12.0508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0723 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1106 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1302 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1494 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1684 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1886 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2154 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2359 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2734 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3116 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3297 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.3842 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4109 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4358 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4564 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.4570 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.4598 	DEBUG 	Upload of Texture Font fontname complete
+12.4869 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5113 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5369 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.5375 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.5390 	DEBUG 	Upload of Texture Font fontname complete
+12.5418 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.5419 	EXP 	window1: recordFrameIntervals = False
+12.7535 	EXP 	window1: recordFrameIntervals = True
+12.9346 	EXP 	Screen (0) actual frame rate measured at 60.30Hz
+12.9346 	EXP 	window1: recordFrameIntervals = False
+12.9640 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0149 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0512 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0897 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1284 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.2044 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.2499 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3176 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3195 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.3238 	DEBUG 	Upload of Texture Font fontname complete
+13.7000 	INFO 	keyboard.Keyboard is using ptb backend.
+13.7011 	INFO 	keyboard.Keyboard is using ptb backend.
+13.7019 	INFO 	keyboard.Keyboard is using ptb backend.
+13.7020 	EXP 	oct30exp: status = STARTED
+14.0554 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+14.1127 	EXP 	Created cue = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/rocket.png', interpolate=True, mask=None, maskParams=None, name='cue', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+14.1208 	EXP 	Created target = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='target', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0490 	INFO 	Keyboard events cleared
+0.0489 	EXP 	inst_text: autoDraw = True
+0.3991 	EXP 	Device response: <KeyPress from None: t=0.37162290001288056, value=left, duration=None>
+0.4106 	DEBUG 	Read excel file with openpyxl: spreadsheets/green_alien_block.xlsx
+0.4112 	EXP 	Imported spreadsheets/green_alien_block.xlsx as conditions, 4 conditions, 5 params
+0.4123 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.6090 	DEBUG 	Saving data for oct30exp ExperimentHandler
+0.6155 	INFO 	saved data to C:\Users\psych\Desktop\posner experiment\data\pilot_oct30exp_2025-10-30_16h54.35.987.psydat
+0.6184 	INFO 	saved data to 'C:\\Users\\psych\\Desktop\\posner experiment\\data\\pilot_oct30exp_2025-10-30_16h54.35.987.csv'
+0.6738 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+0.7381 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+0.7382 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

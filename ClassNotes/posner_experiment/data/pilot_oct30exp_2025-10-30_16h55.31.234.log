@@ -1,0 +1,334 @@
+9.4474 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.4633 	INFO 	Loaded monitor calibration from ['2025_10_02 14:32']
+10.4699 	INFO 	Using renderer 'AMD Radeon(TM) Graphics' for graphics
+10.4700 	INFO 	OpenGL version supported by driver is 4..
+10.5111 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002454E5B1780>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002454E5B17E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002454E64F940>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.5114 	EXP 	window1: backgroundImage = ''
+10.5114 	EXP 	window1: backgroundFit = 'none'
+10.5690 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5959 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6206 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6407 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6596 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6815 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7050 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7457 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7655 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8784 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9113 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9778 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0004 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0234 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0451 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0647 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0655 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.0703 	DEBUG 	Upload of Texture Font fontname complete
+11.1202 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1517 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1780 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1788 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.1797 	DEBUG 	Upload of Texture Font fontname complete
+11.1841 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.1842 	EXP 	window1: recordFrameIntervals = False
+11.4204 	EXP 	window1: recordFrameIntervals = True
+11.6037 	EXP 	Screen (0) actual frame rate measured at 59.99Hz
+11.6038 	EXP 	window1: recordFrameIntervals = False
+11.6437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.6706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.6953 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7253 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7567 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8062 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8295 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8541 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8796 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8802 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.8823 	DEBUG 	Upload of Texture Font fontname complete
+11.9737 	INFO 	keyboard.Keyboard is using ptb backend.
+11.9739 	INFO 	keyboard.Keyboard is using ptb backend.
+11.9741 	INFO 	keyboard.Keyboard is using ptb backend.
+11.9741 	EXP 	oct30exp: status = STARTED
+12.1373 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.1786 	EXP 	Created cue = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/rocket.png', interpolate=True, mask=None, maskParams=None, name='cue', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+12.1865 	EXP 	Created target = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='target', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0008 	DATA 	Keypress: right
+0.0356 	INFO 	Keyboard events cleared
+0.0355 	EXP 	inst_text: autoDraw = True
+0.4486 	EXP 	Device response: <KeyPress from None: t=0.430385900021065, value=right, duration=None>
+0.4633 	DEBUG 	Read excel file with openpyxl: spreadsheets/green_alien_block.xlsx
+0.4641 	EXP 	Imported spreadsheets/green_alien_block.xlsx as conditions, 4 conditions, 5 params
+0.4648 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': 0.5, 'condition': 'congruent', 'answer': 'right', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.5432 	DATA 	Keypress: right
+0.5658 	EXP 	inst_text: autoDraw = False
+0.5658 	EXP 	cue: ori = np.float64(90.0)
+0.5658 	EXP 	target: ori = np.float64(0.0)
+0.5658 	EXP 	target: image = 'images/green_alien.png'
+0.5658 	EXP 	cue: autoDraw = True
+0.5881 	EXP 	Device response: <KeyPress from None: t=0.430385900021065, value=right, duration=0.15444829998887144>
+1.0507 	INFO 	Keyboard events cleared
+1.0506 	EXP 	target: autoDraw = True
+1.0673 	EXP 	cue: autoDraw = False
+1.3544 	EXP 	Device response: <KeyPress from None: t=1.3471563000057358, value=right, duration=None>
+1.3547 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': -0.5, 'condition': 'congruent', 'answer': 'left', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+1.4097 	DATA 	Keypress: right
+1.4181 	EXP 	cue: autoDraw = False
+1.4181 	EXP 	target: autoDraw = False
+1.4181 	EXP 	cue: ori = np.float64(270.0)
+1.4181 	EXP 	target: ori = np.float64(0.0)
+1.4181 	EXP 	target: image = 'images/green_alien.png'
+1.4181 	EXP 	cue: autoDraw = True
+1.5041 	EXP 	Device response: <KeyPress from None: t=1.3471563000057358, value=right, duration=0.14929620001930743>
+1.9339 	EXP 	cue: autoDraw = False
+1.9676 	INFO 	Keyboard events cleared
+1.9674 	EXP 	target: autoDraw = True
+2.2049 	EXP 	Device response: <KeyPress from None: t=2.1990169000055175, value=left, duration=None>
+2.2052 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+2.2725 	DATA 	Keypress: left
+2.2861 	EXP 	cue: autoDraw = False
+2.2861 	EXP 	target: autoDraw = False
+2.2861 	EXP 	cue: ori = np.float64(90.0)
+2.2861 	EXP 	target: ori = np.float64(0.0)
+2.2861 	EXP 	target: image = 'images/green_alien.png'
+2.2861 	EXP 	cue: autoDraw = True
+2.3389 	EXP 	Device response: <KeyPress from None: t=2.1990169000055175, value=left, duration=0.13928080000914633>
+2.8007 	EXP 	cue: autoDraw = False
+2.8177 	INFO 	Keyboard events cleared
+2.8176 	EXP 	target: autoDraw = True
+3.1703 	EXP 	Device response: <KeyPress from None: t=3.160378700005822, value=left, duration=None>
+3.1706 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+3.2235 	DATA 	Keypress: left
+3.2354 	EXP 	cue: autoDraw = False
+3.2354 	EXP 	target: autoDraw = False
+3.2354 	EXP 	cue: ori = np.float64(270.0)
+3.2354 	EXP 	target: ori = np.float64(0.0)
+3.2354 	EXP 	target: image = 'images/green_alien.png'
+3.2354 	EXP 	cue: autoDraw = True
+3.3216 	EXP 	Device response: <KeyPress from None: t=3.160378700005822, value=left, duration=0.15441560000181198>
+3.7344 	EXP 	cue: autoDraw = False
+3.7842 	INFO 	Keyboard events cleared
+3.7841 	EXP 	target: autoDraw = True
+3.9890 	EXP 	Device response: <KeyPress from None: t=3.9874793000053614, value=right, duration=None>
+3.9892 	EXP 	New trial (rep=1, index=0): <Trial 4 (0 in rep 1) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 4, 'thisTrialN': 0, 'thisRepN': 1}>
+4.0969 	DATA 	Keypress: right
+4.1196 	EXP 	cue: autoDraw = False
+4.1196 	EXP 	target: autoDraw = False
+4.1196 	EXP 	cue: ori = np.float64(270.0)
+4.1196 	EXP 	target: ori = np.float64(0.0)
+4.1196 	EXP 	target: image = 'images/red_alien.png'
+4.1196 	EXP 	cue: autoDraw = True
+4.1742 	EXP 	Device response: <KeyPress from None: t=3.9874793000053614, value=right, duration=0.17423070000950247>
+4.6012 	INFO 	Keyboard events cleared
+4.6011 	EXP 	target: autoDraw = True
+4.6343 	EXP 	cue: autoDraw = False
+4.9716 	EXP 	Device response: <KeyPress from None: t=4.964936600008514, value=right, duration=None>
+4.9718 	EXP 	New trial (rep=1, index=1): <Trial 5 (1 in rep 1) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': 0.5, 'condition': 'congruent', 'answer': 'right', 'thisN': 5, 'thisTrialN': 1, 'thisRepN': 1}>
+5.0244 	DATA 	Keypress: right
+5.0362 	EXP 	cue: autoDraw = False
+5.0362 	EXP 	target: autoDraw = False
+5.0362 	EXP 	cue: ori = np.float64(90.0)
+5.0362 	EXP 	target: ori = np.float64(0.0)
+5.0362 	EXP 	target: image = 'images/red_alien.png'
+5.0362 	EXP 	cue: autoDraw = True
+5.0726 	EXP 	Device response: <KeyPress from None: t=4.964936600008514, value=right, duration=0.10355329999583773>
+5.5518 	EXP 	cue: autoDraw = False
+5.6015 	INFO 	Keyboard events cleared
+5.6014 	EXP 	target: autoDraw = True
+5.9382 	EXP 	Device response: <KeyPress from None: t=5.931219000020064, value=right, duration=None>
+5.9384 	EXP 	New trial (rep=1, index=2): <Trial 6 (2 in rep 1) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': -0.5, 'condition': 'congruent', 'answer': 'left', 'thisN': 6, 'thisTrialN': 2, 'thisRepN': 1}>
+5.9882 	DATA 	Keypress: right
+6.0024 	EXP 	cue: autoDraw = False
+6.0024 	EXP 	target: autoDraw = False
+6.0024 	EXP 	cue: ori = np.float64(270.0)
+6.0024 	EXP 	target: ori = np.float64(0.0)
+6.0024 	EXP 	target: image = 'images/red_alien.png'
+6.0024 	EXP 	cue: autoDraw = True
+6.1039 	EXP 	Device response: <KeyPress from None: t=5.931219000020064, value=right, duration=0.16323790000751615>
+6.5007 	EXP 	cue: autoDraw = False
+6.5510 	INFO 	Keyboard events cleared
+6.5509 	EXP 	target: autoDraw = True
+6.8373 	EXP 	Device response: <KeyPress from None: t=6.821905300021172, value=left, duration=None>
+6.8376 	EXP 	New trial (rep=1, index=3): <Trial 7 (3 in rep 1) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 7, 'thisTrialN': 3, 'thisRepN': 1}>
+6.9315 	DATA 	Keypress: left
+6.9520 	EXP 	cue: autoDraw = False
+6.9520 	EXP 	target: autoDraw = False
+6.9520 	EXP 	cue: ori = np.float64(90.0)
+6.9520 	EXP 	target: ori = np.float64(0.0)
+6.9520 	EXP 	target: image = 'images/green_alien.png'
+6.9520 	EXP 	cue: autoDraw = True
+7.0041 	EXP 	Device response: <KeyPress from None: t=6.821905300021172, value=left, duration=0.16945499999565072>
+7.4517 	INFO 	Keyboard events cleared
+7.4515 	EXP 	cue: autoDraw = False
+7.4515 	EXP 	target: autoDraw = True
+7.8051 	EXP 	Device response: <KeyPress from None: t=7.803334000025643, value=left, duration=None>
+7.8053 	EXP 	New trial (rep=2, index=0): <Trial 8 (0 in rep 2) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 8, 'thisTrialN': 0, 'thisRepN': 2}>
+7.9012 	DATA 	Keypress: left
+7.9182 	EXP 	cue: autoDraw = False
+7.9182 	EXP 	target: autoDraw = False
+7.9182 	EXP 	cue: ori = np.float64(270.0)
+7.9182 	EXP 	target: ori = np.float64(0.0)
+7.9182 	EXP 	target: image = 'images/red_alien.png'
+7.9182 	EXP 	cue: autoDraw = True
+7.9709 	EXP 	Device response: <KeyPress from None: t=7.803334000025643, value=left, duration=0.1593581999768503>
+8.4179 	INFO 	Keyboard events cleared
+8.4178 	EXP 	target: autoDraw = True
+8.4343 	EXP 	cue: autoDraw = False
+8.6541 	EXP 	Device response: <KeyPress from None: t=8.640187100012554, value=right, duration=None>
+8.6543 	EXP 	New trial (rep=2, index=1): <Trial 9 (1 in rep 2) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 9, 'thisTrialN': 1, 'thisRepN': 2}>
+8.7038 	DATA 	Keypress: right
+8.7187 	EXP 	cue: autoDraw = False
+8.7187 	EXP 	target: autoDraw = False
+8.7187 	EXP 	cue: ori = np.float64(90.0)
+8.7187 	EXP 	target: ori = np.float64(0.0)
+8.7187 	EXP 	target: image = 'images/red_alien.png'
+8.7187 	EXP 	cue: autoDraw = True
+8.8248 	EXP 	Device response: <KeyPress from None: t=8.640187100012554, value=right, duration=0.16941709999809973>
+9.2182 	EXP 	cue: autoDraw = False
+9.2684 	INFO 	Keyboard events cleared
+9.2683 	EXP 	target: autoDraw = True
+9.6046 	EXP 	Device response: <KeyPress from None: t=9.592027200007578, value=left, duration=None>
+9.6049 	EXP 	New trial (rep=2, index=2): <Trial 10 (2 in rep 2) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': 0.5, 'condition': 'congruent', 'answer': 'right', 'thisN': 10, 'thisTrialN': 2, 'thisRepN': 2}>
+9.6581 	DATA 	Keypress: left
+9.6699 	EXP 	cue: autoDraw = False
+9.6699 	EXP 	target: autoDraw = False
+9.6699 	EXP 	cue: ori = np.float64(90.0)
+9.6699 	EXP 	target: ori = np.float64(0.0)
+9.6699 	EXP 	target: image = 'images/red_alien.png'
+9.6699 	EXP 	cue: autoDraw = True
+9.7873 	EXP 	Device response: <KeyPress from None: t=9.592027200007578, value=left, duration=0.18402139999670908>
+10.1836 	EXP 	cue: autoDraw = False
+10.2172 	INFO 	Keyboard events cleared
+10.2171 	EXP 	target: autoDraw = True
+10.6044 	EXP 	Device response: <KeyPress from None: t=10.588052900013281, value=right, duration=None>
+10.6047 	EXP 	New trial (rep=2, index=3): <Trial 11 (3 in rep 2) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': -0.5, 'condition': 'congruent', 'answer': 'left', 'thisN': 11, 'thisTrialN': 3, 'thisRepN': 2}>
+10.6537 	DATA 	Keypress: right
+10.6686 	EXP 	cue: autoDraw = False
+10.6686 	EXP 	target: autoDraw = False
+10.6686 	EXP 	cue: ori = np.float64(270.0)
+10.6686 	EXP 	target: ori = np.float64(0.0)
+10.6686 	EXP 	target: image = 'images/red_alien.png'
+10.6686 	EXP 	cue: autoDraw = True
+10.7742 	EXP 	Device response: <KeyPress from None: t=10.588052900013281, value=right, duration=0.1745082999987062>
+11.1864 	EXP 	cue: autoDraw = False
+11.2203 	INFO 	Keyboard events cleared
+11.2201 	EXP 	target: autoDraw = True
+11.4590 	EXP 	Device response: <KeyPress from None: t=11.445211100013694, value=left, duration=None>
+11.4594 	EXP 	New trial (rep=3, index=0): <Trial 12 (0 in rep 3) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': -0.5, 'condition': 'congruent', 'answer': 'left', 'thisN': 12, 'thisTrialN': 0, 'thisRepN': 3}>
+11.5536 	DATA 	Keypress: left
+11.5869 	EXP 	cue: autoDraw = False
+11.5869 	EXP 	target: autoDraw = False
+11.5869 	EXP 	cue: ori = np.float64(270.0)
+11.5869 	EXP 	target: ori = np.float64(0.0)
+11.5869 	EXP 	target: image = 'images/red_alien.png'
+11.5869 	EXP 	cue: autoDraw = True
+11.6075 	EXP 	Device response: <KeyPress from None: t=11.445211100013694, value=left, duration=0.15910260000964627>
+12.0676 	INFO 	Keyboard events cleared
+12.0675 	EXP 	target: autoDraw = True
+12.1012 	EXP 	cue: autoDraw = False
+12.4707 	EXP 	Device response: <KeyPress from None: t=12.466486700024689, value=left, duration=None>
+12.4709 	EXP 	New trial (rep=3, index=1): <Trial 13 (1 in rep 3) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 13, 'thisTrialN': 1, 'thisRepN': 3}>
+12.5657 	DATA 	Keypress: left
+12.5861 	EXP 	cue: autoDraw = False
+12.5861 	EXP 	target: autoDraw = False
+12.5861 	EXP 	cue: ori = np.float64(90.0)
+12.5861 	EXP 	target: ori = np.float64(0.0)
+12.5861 	EXP 	target: image = 'images/green_alien.png'
+12.5861 	EXP 	cue: autoDraw = True
+12.6554 	EXP 	Device response: <KeyPress from None: t=12.466486700024689, value=left, duration=0.17908579998766072>
+13.0842 	INFO 	Keyboard events cleared
+13.0840 	EXP 	target: autoDraw = True
+13.1011 	EXP 	cue: autoDraw = False
+13.4876 	EXP 	Device response: <KeyPress from None: t=13.477384000027087, value=left, duration=None>
+13.4878 	EXP 	New trial (rep=3, index=2): <Trial 14 (2 in rep 3) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 14, 'thisTrialN': 2, 'thisRepN': 3}>
+13.5746 	DATA 	Keypress: left
+13.5851 	EXP 	cue: autoDraw = False
+13.5851 	EXP 	target: autoDraw = False
+13.5851 	EXP 	cue: ori = np.float64(270.0)
+13.5851 	EXP 	target: ori = np.float64(0.0)
+13.5851 	EXP 	target: image = 'images/red_alien.png'
+13.5851 	EXP 	cue: autoDraw = True
+13.6584 	EXP 	Device response: <KeyPress from None: t=13.477384000027087, value=left, duration=0.17462279999745078>
+14.0855 	EXP 	cue: autoDraw = False
+14.1030 	INFO 	Keyboard events cleared
+14.1029 	EXP 	target: autoDraw = True
+14.3275 	EXP 	Device response: <KeyPress from None: t=14.314608200016664, value=right, duration=None>
+14.3279 	EXP 	New trial (rep=3, index=3): <Trial 15 (3 in rep 3) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': 0.5, 'condition': 'congruent', 'answer': 'right', 'thisN': 15, 'thisTrialN': 3, 'thisRepN': 3}>
+14.4747 	DATA 	Keypress: right
+14.4853 	EXP 	cue: autoDraw = False
+14.4853 	EXP 	target: autoDraw = False
+14.4853 	EXP 	cue: ori = np.float64(90.0)
+14.4853 	EXP 	target: ori = np.float64(0.0)
+14.4853 	EXP 	target: image = 'images/green_alien.png'
+14.4853 	EXP 	cue: autoDraw = True
+14.4906 	EXP 	Device response: <KeyPress from None: t=14.314608200016664, value=right, duration=0.1740562999912072>
+14.9343 	INFO 	Keyboard events cleared
+14.9341 	EXP 	target: autoDraw = True
+14.9845 	EXP 	cue: autoDraw = False
+15.2224 	EXP 	Device response: <KeyPress from None: t=15.211000300012529, value=right, duration=None>
+15.2227 	EXP 	New trial (rep=4, index=0): <Trial 16 (0 in rep 4) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': 0.5, 'condition': 'congruent', 'answer': 'right', 'thisN': 16, 'thisTrialN': 0, 'thisRepN': 4}>
+15.2967 	DATA 	Keypress: right
+15.3367 	EXP 	cue: autoDraw = False
+15.3367 	EXP 	target: autoDraw = False
+15.3367 	EXP 	cue: ori = np.float64(90.0)
+15.3367 	EXP 	target: ori = np.float64(0.0)
+15.3367 	EXP 	target: image = 'images/green_alien.png'
+15.3367 	EXP 	cue: autoDraw = True
+15.4047 	EXP 	Device response: <KeyPress from None: t=15.211000300012529, value=right, duration=0.18955579999601468>
+15.8343 	INFO 	Keyboard events cleared
+15.8342 	EXP 	target: autoDraw = True
+15.8510 	EXP 	cue: autoDraw = False
+16.2233 	EXP 	Device response: <KeyPress from None: t=16.217633000022033, value=right, duration=None>
+16.2237 	EXP 	New trial (rep=4, index=1): <Trial 17 (1 in rep 4) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': -0.5, 'condition': 'congruent', 'answer': 'left', 'thisN': 17, 'thisTrialN': 1, 'thisRepN': 4}>
+16.2927 	DATA 	Keypress: right
+16.3027 	EXP 	cue: autoDraw = False
+16.3027 	EXP 	target: autoDraw = False
+16.3027 	EXP 	cue: ori = np.float64(270.0)
+16.3027 	EXP 	target: ori = np.float64(0.0)
+16.3027 	EXP 	target: image = 'images/green_alien.png'
+16.3027 	EXP 	cue: autoDraw = True
+16.4067 	EXP 	Device response: <KeyPress from None: t=16.217633000022033, value=right, duration=0.17885719999321736>
+16.8177 	EXP 	cue: autoDraw = False
+16.8347 	INFO 	Keyboard events cleared
+16.8346 	EXP 	target: autoDraw = True
+17.1067 	EXP 	Device response: <KeyPress from None: t=17.104022000014083, value=left, duration=None>
+17.1070 	EXP 	New trial (rep=4, index=2): <Trial 18 (2 in rep 4) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 18, 'thisTrialN': 2, 'thisRepN': 4}>
+17.2301 	DATA 	Keypress: left
+17.2529 	EXP 	cue: autoDraw = False
+17.2529 	EXP 	target: autoDraw = False
+17.2529 	EXP 	cue: ori = np.float64(90.0)
+17.2529 	EXP 	target: ori = np.float64(0.0)
+17.2529 	EXP 	target: image = 'images/red_alien.png'
+17.2529 	EXP 	cue: autoDraw = True
+17.2728 	EXP 	Device response: <KeyPress from None: t=17.104022000014083, value=left, duration=0.1592520000122022>
+17.7179 	INFO 	Keyboard events cleared
+17.7178 	EXP 	target: autoDraw = True
+17.7682 	EXP 	cue: autoDraw = False
+18.1231 	EXP 	Device response: <KeyPress from None: t=18.12029080002685, value=left, duration=None>
+18.1233 	EXP 	New trial (rep=4, index=3): <Trial 19 (3 in rep 4) data={'target_image': 'images/green_alien.png', 'cue_ori': 270, 'target_x': 0.5, 'condition': 'incongruent', 'answer': 'right', 'thisN': 19, 'thisTrialN': 3, 'thisRepN': 4}>
+18.1854 	DATA 	Keypress: left
+18.2029 	EXP 	cue: autoDraw = False
+18.2029 	EXP 	target: autoDraw = False
+18.2029 	EXP 	cue: ori = np.float64(270.0)
+18.2029 	EXP 	target: ori = np.float64(0.0)
+18.2029 	EXP 	target: image = 'images/red_alien.png'
+18.2029 	EXP 	cue: autoDraw = True
+18.3058 	EXP 	Device response: <KeyPress from None: t=18.12029080002685, value=left, duration=0.17414629997801967>
+18.7180 	EXP 	cue: autoDraw = False
+18.7345 	INFO 	Keyboard events cleared
+18.7343 	EXP 	target: autoDraw = True
+19.0065 	EXP 	Device response: <KeyPress from None: t=19.001892500004033, value=right, duration=None>
+19.0076 	DATA 	Keypress: right
+19.0179 	EXP 	cue: autoDraw = False
+19.0179 	EXP 	target: autoDraw = False
+19.0230 	EXP 	oct30exp: status = STOPPED
+19.0473 	INFO 	saved data to 'C:\\Users\\psych\\Desktop\\posner experiment\\data\\pilot_oct30exp_2025-10-30_16h55.31.234.csv'
+19.0495 	INFO 	saved data to C:\Users\psych\Desktop\posner experiment\data\pilot_oct30exp_2025-10-30_16h55.31.234.psydat
+19.8921 	DEBUG 	Saving data for oct30exp ExperimentHandler
+19.8984 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+19.9028 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+19.9028 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

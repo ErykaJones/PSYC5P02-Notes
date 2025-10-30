@@ -1,0 +1,63 @@
+14.1987 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+14.2007 	INFO 	Loaded monitor calibration from ['2025_10_02 14:32']
+14.6641 	INFO 	Using renderer 'AMD Radeon(TM) Graphics' for graphics
+14.6642 	INFO 	OpenGL version supported by driver is 4..
+14.6997 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021DE8270AC0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021DE8270B20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021DE836F070>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.6998 	EXP 	window1: backgroundImage = ''
+14.6999 	EXP 	window1: backgroundFit = 'none'
+14.7532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.7905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.8257 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.8644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.9039 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.9409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.9796 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.0179 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.0550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.0921 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1306 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1689 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2076 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2459 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2838 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.3219 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.3590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.3958 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.4329 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.4714 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.5095 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.5105 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.5154 	DEBUG 	Upload of Texture Font fontname complete
+15.5709 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6090 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6515 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.6526 	DEBUG 	Upload of Texture Font fontname complete
+15.6581 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+15.6581 	EXP 	window1: recordFrameIntervals = False
+15.8824 	EXP 	window1: recordFrameIntervals = True
+16.0661 	EXP 	Screen (0) actual frame rate measured at 60.03Hz
+16.0662 	EXP 	window1: recordFrameIntervals = False
+16.1209 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.1584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.1961 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.2345 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.2729 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.3109 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.3481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.3857 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.4236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.4621 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.4632 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.4665 	DEBUG 	Upload of Texture Font fontname complete
+16.5688 	INFO 	keyboard.Keyboard is using ptb backend.
+16.5691 	INFO 	keyboard.Keyboard is using ptb backend.
+16.5693 	INFO 	keyboard.Keyboard is using ptb backend.
+16.5694 	EXP 	oct30exp: status = STARTED
+16.8070 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.9808 	DEBUG 	Saving data for oct30exp ExperimentHandler
+16.9837 	INFO 	saved data to C:\Users\psych\Desktop\posner experiment\data\pilot_oct30exp_2025-10-30_16h32.40.427.psydat
+16.9859 	INFO 	saved data to 'C:\\Users\\psych\\Desktop\\posner experiment\\data\\pilot_oct30exp_2025-10-30_16h32.40.427.csv'
+16.9959 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0750 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0751 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

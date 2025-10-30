@@ -1,0 +1,3 @@
+﻿target_image,cue_ori,target_x,condition,answer,thisN,thisTrialN,thisRepN,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,instructions.started,inst_text.started,start_resp.started,instructions.stopped,start_resp.keys,start_resp.rt,start_resp.duration,participant,session,date,expName,expVersion,psychopyVersion,frameRate,expStart,
+,,,,,,,,,,,,,,0.022334800014505163,0.048880200018174946,0.048880200018174946,0.39922250001109205,left,0.3226946000067983,None,pilot,001,2025-10-30_16h54.35.987,oct30exp,,2025.1.1,60.296356592514066,2025-10-30 16h54.40.288548 -0400,
+images/green_alien.png,270,0.5,incongruent,right,0,0,0,0,0,0,1,,,,,,,,,,,,,,,,,,

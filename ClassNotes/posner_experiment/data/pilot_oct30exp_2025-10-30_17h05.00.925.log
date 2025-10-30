@@ -1,0 +1,83 @@
+11.1638 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.1734 	INFO 	Loaded monitor calibration from ['2025_10_02 14:32']
+11.6575 	INFO 	Using renderer 'AMD Radeon(TM) Graphics' for graphics
+11.6575 	INFO 	OpenGL version supported by driver is 4..
+11.6850 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001AF08F43F10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001AF08F43EB0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001AF09043430>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.6852 	EXP 	window1: backgroundImage = ''
+11.6852 	EXP 	window1: backgroundFit = 'none'
+11.7184 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7374 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7744 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.7934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8167 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8399 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8594 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8795 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9228 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9420 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9794 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9987 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0169 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0357 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0537 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0715 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0936 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1151 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.1185 	DEBUG 	Upload of Texture Font fontname complete
+12.1569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1832 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2030 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.2036 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.2045 	DEBUG 	Upload of Texture Font fontname complete
+12.2073 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.2074 	EXP 	window1: recordFrameIntervals = False
+12.3908 	EXP 	window1: recordFrameIntervals = True
+12.5722 	EXP 	Screen (0) actual frame rate measured at 60.84Hz
+12.5722 	EXP 	window1: recordFrameIntervals = False
+12.5985 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6174 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6370 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6605 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.7132 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.7559 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.7939 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.8290 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.8612 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.8619 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.8638 	DEBUG 	Upload of Texture Font fontname complete
+12.9617 	INFO 	keyboard.Keyboard is using ptb backend.
+12.9620 	INFO 	keyboard.Keyboard is using ptb backend.
+12.9622 	INFO 	keyboard.Keyboard is using ptb backend.
+12.9622 	EXP 	oct30exp: status = STARTED
+13.1339 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.1724 	EXP 	Created cue = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/rocket.png', interpolate=True, mask=None, maskParams=None, name='cue', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+13.1790 	EXP 	Created target = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='target', opacity=1, ori=1.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+13.1863 	EXP 	Created fbimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='fbimage', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0379 	INFO 	Keyboard events cleared
+0.0378 	EXP 	inst_text: autoDraw = True
+1.0143 	EXP 	Device response: <KeyPress from None: t=1.0026393000152893, value=right, duration=None>
+1.0272 	DEBUG 	Read excel file with openpyxl: spreadsheets/green_alien_block.xlsx
+1.0277 	EXP 	Imported spreadsheets/green_alien_block.xlsx as conditions, 4 conditions, 5 params
+1.0283 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'target_image': 'images/green_alien.png', 'cue_ori': 90, 'target_x': -0.5, 'condition': 'incongruent', 'answer': 'left', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.1026 	DATA 	Keypress: right
+1.1190 	EXP 	inst_text: autoDraw = False
+1.1190 	EXP 	cue: ori = np.float64(90.0)
+1.1190 	EXP 	target: ori = np.float64(0.0)
+1.1190 	EXP 	target: image = 'images/green_alien.png'
+1.1190 	EXP 	cue: autoDraw = True
+1.1591 	EXP 	Device response: <KeyPress from None: t=1.0026393000152893, value=right, duration=0.14415659999940544>
+1.6207 	INFO 	Keyboard events cleared
+1.6205 	EXP 	cue: autoDraw = False
+1.6205 	EXP 	target: autoDraw = True
+1.9898 	EXP 	Device response: <KeyPress from None: t=1.9887104000081308, value=left, duration=None>
+2.1317 	DEBUG 	Saving data for oct30exp ExperimentHandler
+2.1359 	INFO 	saved data to C:\Users\psych\Desktop\posner experiment\data\pilot_oct30exp_2025-10-30_17h05.00.925.psydat
+2.1390 	INFO 	saved data to 'C:\\Users\\psych\\Desktop\\posner experiment\\data\\pilot_oct30exp_2025-10-30_17h05.00.925.csv'
+2.1691 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+2.2448 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+2.2449 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

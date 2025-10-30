@@ -1,0 +1,121 @@
+9.1642 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.1765 	INFO 	Loaded monitor calibration from ['2025_10_02 14:32']
+9.9989 	INFO 	Using renderer 'AMD Radeon(TM) Graphics' for graphics
+9.9989 	INFO 	OpenGL version supported by driver is 4..
+10.0260 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002803FEB6C80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002803FEB6CE0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002803FFAAF80>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.0262 	EXP 	window1: backgroundImage = ''
+10.0262 	EXP 	window1: backgroundFit = 'none'
+10.0718 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0965 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1184 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1402 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1773 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1964 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2161 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2344 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2526 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2719 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2972 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3193 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3559 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3786 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4205 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4626 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4807 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4815 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4843 	DEBUG 	Upload of Texture Font fontname complete
+10.5114 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5498 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5503 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.5512 	DEBUG 	Upload of Texture Font fontname complete
+10.5540 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.5540 	EXP 	window1: recordFrameIntervals = False
+10.7513 	EXP 	window1: recordFrameIntervals = True
+10.9349 	EXP 	Screen (0) actual frame rate measured at 59.87Hz
+10.9350 	EXP 	window1: recordFrameIntervals = False
+10.9606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9787 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0004 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0231 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0787 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1132 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1994 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2389 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.2413 	DEBUG 	Upload of Texture Font fontname complete
+11.3592 	INFO 	keyboard.Keyboard is using ptb backend.
+11.3596 	INFO 	keyboard.Keyboard is using ptb backend.
+11.3599 	INFO 	keyboard.Keyboard is using ptb backend.
+11.3600 	EXP 	oct30exp: status = STARTED
+11.6173 	EXP 	Created inst_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='inst_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.6830 	EXP 	Created cue = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/rocket.png', interpolate=True, mask=None, maskParams=None, name='cue', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+11.7737 	EXP 	Created target = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/green_alien.png', interpolate=True, mask=None, maskParams=None, name='target', opacity=1, ori=0.0, pos=array([-0.4,  0. ]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0456 	INFO 	Keyboard events cleared
+0.0455 	EXP 	inst_text: autoDraw = True
+1.0003 	EXP 	Device response: <KeyPress from None: t=0.9788150000094902, value=space, duration=None>
+1.0013 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.0065 	DATA 	Keypress: space
+1.0268 	EXP 	inst_text: autoDraw = False
+1.0268 	EXP 	cue: autoDraw = True
+1.0699 	EXP 	Device response: <KeyPress from None: t=0.9788150000094902, value=space, duration=0.0842551999958232>
+1.5265 	EXP 	cue: autoDraw = False
+1.6097 	INFO 	Keyboard events cleared
+1.6096 	EXP 	target: autoDraw = True
+4.5146 	EXP 	Device response: <KeyPress from None: t=4.510507900005905, value=space, duration=None>
+4.5149 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+4.5162 	DATA 	Keypress: space
+4.5270 	EXP 	cue: autoDraw = False
+4.5270 	EXP 	target: autoDraw = False
+4.5270 	EXP 	cue: autoDraw = True
+4.5476 	EXP 	Device response: <KeyPress from None: t=4.510507900005905, value=space, duration=0.02973710000514984>
+5.0265 	EXP 	cue: autoDraw = False
+5.1266 	INFO 	Keyboard events cleared
+5.1265 	EXP 	target: autoDraw = True
+6.0004 	EXP 	Device response: <KeyPress from None: t=5.9854630999907386, value=space, duration=None>
+6.0006 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+6.0020 	DATA 	Keypress: space
+6.0100 	EXP 	cue: autoDraw = False
+6.0100 	EXP 	target: autoDraw = False
+6.0100 	EXP 	cue: autoDraw = True
+6.0643 	EXP 	Device response: <KeyPress from None: t=5.9854630999907386, value=space, duration=0.07457440000143833>
+6.5097 	EXP 	cue: autoDraw = False
+6.6106 	INFO 	Keyboard events cleared
+6.6105 	EXP 	target: autoDraw = True
+6.9300 	EXP 	Device response: <KeyPress from None: t=6.921624900016468, value=space, duration=None>
+6.9302 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+6.9311 	DATA 	Keypress: space
+6.9430 	EXP 	cue: autoDraw = False
+6.9430 	EXP 	target: autoDraw = False
+6.9430 	EXP 	cue: autoDraw = True
+7.0135 	EXP 	Device response: <KeyPress from None: t=6.921624900016468, value=space, duration=0.07938369998009875>
+7.4434 	EXP 	cue: autoDraw = False
+7.5439 	INFO 	Keyboard events cleared
+7.5438 	EXP 	target: autoDraw = True
+8.0153 	EXP 	Device response: <KeyPress from None: t=8.012438300007489, value=space, duration=None>
+8.0155 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+8.0168 	DATA 	Keypress: space
+8.0269 	EXP 	cue: autoDraw = False
+8.0269 	EXP 	target: autoDraw = False
+8.0269 	EXP 	cue: autoDraw = True
+8.0970 	EXP 	Device response: <KeyPress from None: t=8.012438300007489, value=space, duration=0.08011579999583773>
+8.5283 	EXP 	cue: autoDraw = False
+8.6284 	INFO 	Keyboard events cleared
+8.6282 	EXP 	target: autoDraw = True
+9.0470 	EXP 	Device response: <KeyPress from None: t=9.03872159999446, value=space, duration=None>
+9.0480 	DATA 	Keypress: space
+9.0602 	EXP 	cue: autoDraw = False
+9.0602 	EXP 	target: autoDraw = False
+9.0648 	EXP 	oct30exp: status = STOPPED
+9.0788 	INFO 	saved data to 'C:\\Users\\psych\\Desktop\\posner experiment\\data\\pilot_oct30exp_2025-10-30_16h21.37.470.csv'
+9.0814 	INFO 	saved data to C:\Users\psych\Desktop\posner experiment\data\pilot_oct30exp_2025-10-30_16h21.37.470.psydat
+9.7315 	DEBUG 	Saving data for oct30exp ExperimentHandler
+9.7371 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+9.7950 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+9.7950 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
